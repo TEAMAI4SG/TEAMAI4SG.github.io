@@ -82,63 +82,64 @@ UN SDG Goal 1 is to end poverty in all its forms everywhere. One example of this
 As hunger is the leading cause of death globally, this goal helps to end hunger and achieve food security. A UN project, [HungerMap](https://innovation.wfp.org/project/hungermap-live) leverages big data and predictive analytics to refine current machine learning models and track hunger in real time. The dashboard shares data globally and allows the World Food Programme to deliver necessities. 
 
 #### Goal 3: Good Health and Wellbeing
-The UN aims to ensure healthy lives and promote well-being for all at all ages. Powered by natural language processing, [Woebot](https://woebothealth.com/woebot-for-adults/) is a mental health chatbot that aims to engage with and provide emotional support to individuals experiencing stress and mental wellness difficulties. In addition to that, [Atomwise](https://www.atomwise.com/), [SkinVision](https://www.skinvision.com/download-skinvision/), [Oncora Medical](https://www.oncora.ai/analytics), and SJSU’s very own Student Assistant Motivator also have their unique ways of promoting health and well-being. 
+The UN aims to ensure healthy lives and promote well-being for all at all ages. Powered by natural language processing, [Woebot](https://woebothealth.com/woebot-for-adults/) is a mental health chatbot that aims to engage with and provide emotional support to individuals experiencing stress and mental wellness difficulties. In addition to that, [Atomwise](https://www.atomwise.com/), [SkinVision](https://www.skinvision.com/download-skinvision/), [Oncora Medical](https://www.oncora.ai/analytics), and SJSU’s very own [Student Assistant Motivator](https://medium.com/ibm-data-ai/a-chatbot-for-mental-health-in-an-age-of-online-learning-366287800c7b) also have their unique ways of promoting health and well-being. 
 
 #### Goal 4: Quality Education
-The UN strives to ensure inclusive and equitable quality education and promote lifelong opportunities for all. Using chatbots to leverage education, Mindojo acts as a private tutor where students can customize their learning goals and make education accessible. Also, Carnegie Learning uses responsive AI to record habits of students and customize learning experience; keeps track of progress; makes personal study suggestions.
+The UN strives to ensure inclusive and equitable quality education and promote lifelong opportunities for all. Using chatbots to leverage education, [Mindojo](https://www.mindojo.com/) acts as a private tutor where students can customize their learning goals and make education accessible. Also, [Carnegie Learning](https://www.carnegielearning.com) uses responsive AI to record habits of students and customize learning experience; keeps track of progress; makes personal study suggestions.
 
-Duolingo also uses advanced machine learning and natural language processing to analyze user data and predict how likely they are to get an answer correct, which is the basis for their personalized learning tests and language lessons. 
+[Duolingo](https://www.wired.com/brandlab/2018/12/ai-helps-duolingo-personalize-language-learning/#:~:text=Users%20start%20with%20Duolingo%27s%20AI,of%20the%20most%20basic%20course.) also uses advanced machine learning and natural language processing to analyze user data and predict how likely they are to get an answer correct, which is the basis for their personalized learning tests and language lessons. 
 
-Goal 5: Gender Equality
-The purpose of UN SDG Goal 5 is to achieve gender equality and empower all women and girls. A team of researchers from India developed a wearable smart intelligent security device for women to use as self defense in a situation they feel unsafe. Utilizing IoT, it has an electric shock mechanism, a screaming alarm as well as a feature that alerts emergency contacts.
+#### Goal 5: Gender Equality
+The purpose of UN SDG Goal 5 is to achieve gender equality and empower all women and girls. A team of researchers from India developed a wearable[ smart intelligent security device](https://www.ijert.org/iot-based-artificial-intelligence-women-protection-device) for women to use as self defense in a situation they feel unsafe. Utilizing IoT, it has an electric shock mechanism, a screaming alarm as well as a feature that alerts emergency contacts.
 
-Goal 6: Clean Water and Sanitation
-To meet the UN's goals to ensure availability and sustainable management of water and sanitation for all, WasteShark created a waste management robot to clean our waters.  WasteShark is supported by IoT and drone technologies.
+#### Goal 6: Clean Water and Sanitation
+To meet the UN's goals to ensure availability and sustainable management of water and sanitation for all, [WasteShark](https://dronesolutionservices.com/wasteshark) created a waste management robot to clean our waters.  WasteShark is supported by IoT and drone technologies.
  
-Goal 7: Affordable and Clean Energy
-Hepta Borne, assists power line utilities in inspecting their power networks by using drones to collect data and a customized inspection platform called uBird to evaluate it. Powered by computer vision, their program provides a bird's-eye view of the grid, its most vital components, and precise reporting to work crews. 
+#### Goal 7: Affordable and Clean Energy
+[Hepta Borne](https://mindtitan.com/resources/case-studies/computer-vision-case-study-hepta-airborne-system-for-power-lines/), assists power line utilities in inspecting their power networks by using drones to collect data and a customized inspection platform called uBird to evaluate it. Powered by computer vision, their program provides a bird's-eye view of the grid, its most vital components, and precise reporting to work crews. 
 
-Goal 8: Decent Work and Economic Growth
-In order to promote sustained, inclusive and sustainable economic growth, full and productive employment, and decent work for all, Nauticus Robotics has designed Aquanaut. Backed by AI and machine learning, this company uses an in-house robotics control software to supervise their autonomous underwater robots that can manage aquaculture projects, repair oil pipelines, and scan seabeds without risking a single human life. 
+#### Goal 8: Decent Work and Economic Growth
+In order to promote sustained, inclusive and sustainable economic growth, full and productive employment, and decent work for all, Nauticus Robotics has designed [Aquanaut](https://nauticusrobotics.com/aquanaut/). Backed by AI and machine learning, this company uses an in-house robotics control software to supervise their autonomous underwater robots that can manage aquaculture projects, repair oil pipelines, and scan seabeds without risking a single human life. 
 
-Goal 9: Industry, Innovation, and Infrastructure 
-Currux Vision utilizes AI processors, similar to those in autonomous vehicles, to perform a number of tasks: automated object detection; classification and tracking; self-learning and advanced prediction algorithms; and automated lane detection. Based on NVIDIA’s GPUs (graphics processing unit), the cloud, existing CCTV, and numerous sensors, this smart traffic monitoring system leverages an intricate IoT system to extract detailed traffic analytics, generate reports, and send real-time traffic alerts.  
+#### Goal 9: Industry, Innovation, and Infrastructure 
+[Currux Vision](https://currux.vision/) utilizes AI processors, similar to those in autonomous vehicles, to perform a number of tasks: automated object detection; classification and tracking; self-learning and advanced prediction algorithms; and automated lane detection. Based on NVIDIA’s GPUs (graphics processing unit), the cloud, existing CCTV, and numerous sensors, this smart traffic monitoring system leverages an intricate IoT system to extract detailed traffic analytics, generate reports, and send real-time traffic alerts.  
 
-Goal 10: Reduced Inequalities 
-California’s AI task force aims to reduce inequalities through utilizing generative AI to help identify groups that struggle to access useful state resources, and converting English educational materials into additional languages and formats for inclusivity. 
+#### Goal 10: Reduced Inequalities 
+[California’s AI task force](https://statescoop.com/california-generative-ai-use-cases/#:~:text=The%20report%20describes%20six%20major,diverse%20population%2C%20such%20as%20by) aims to reduce inequalities through utilizing generative AI to help identify groups that struggle to access useful state resources, and converting English educational materials into additional languages and formats for inclusivity. 
 
-Goal 11: Sustainable Cities and Communities 
-To meet the UN’s goal of making cities and human settlements inclusive, safe, resilient, and sustainable, Road Weather Information Systems (RWIS) was developed to monitor road weather conditions. Utilizing IoT, from visibility sensors to rain and ice detectors. These complex systems are typically composed of a cell tower, RPU (remote processing unit), two road sensors, remote communication hardware, a webserver to display real-time data on browsers, monitoring software, and sensors to measure the speed and direction of wind; air temperature; humidity; and other weather factors. 
+#### Goal 11: Sustainable Cities and Communities 
+To meet the UN’s goal of making cities and human settlements inclusive, safe, resilient, and sustainable, [Road Weather Information Systems (RWIS)](https://www.campbellsci.com/rwis) was developed to monitor road weather conditions. Utilizing IoT, from visibility sensors to rain and ice detectors. These complex systems are typically composed of a cell tower, RPU (remote processing unit), two road sensors, remote communication hardware, a webserver to display real-time data on browsers, monitoring software, and sensors to measure the speed and direction of wind; air temperature; humidity; and other weather factors. 
 
-Goal 12: Responsible Consumption and Production 
-As an AI leader in commercial food waste management for huge names like IKEA, Hilton, and Wynn Resorts, Winnow Solutions uses computer vision to capture images of food waste, plug and play personalized menus, automated recording of food being tossed, and customized reporting based on high quality data analytics.
+#### Goal 12: Responsible Consumption and Production 
+As an AI leader in commercial food waste management for huge names like IKEA, Hilton, and Wynn Resorts, [Winnow Solutions](https://www.winnowsolutions.com/) uses computer vision to capture images of food waste, plug and play personalized menus, automated recording of food being tossed, and customized reporting based on high quality data analytics.
 
-Also, feel free to check out TOMRA, which is a recycling company that uses IoT in its production line to detect foreign items and eliminate waste.
+Also, feel free to check out [TOMRA](https://www.tomra.com/), which is a recycling company that uses IoT in its production line to detect foreign items and eliminate waste.
 
-Goal 13: Climate Action
-Taking urgent action to combat climate change and its impact, Climate TRACE uses satellites and remote sensing IoT technologies to spot greenhouse gas emissions caused by human economic activities and collect that data. Their work contributes to supply chain decarbonization, data-driven policymaking and ensuring transparency.
+#### Goal 13: Climate Action
+Taking urgent action to combat climate change and its impact, [Climate TRACE](https://www.climatetrace.org/) uses satellites and remote sensing IoT technologies to spot greenhouse gas emissions caused by human economic activities and collect that data. Their work contributes to supply chain decarbonization, data-driven policymaking and ensuring transparency.
 
-Goal 14: Life Below Water
-One of the UN SDG’s is to conserve and sustainably use the oceans, seas, and marine resources for sustainable development. Plainsight, in partnership with MarineSitu, utilizes computer vision to ensure the sustainable coexistence of marine energy devices and aquatic life. Their AI models monitor fish species and environmental health to find suitable places for tidal turbines or wave energy converters. This technology helps assess and mitigate potential negative impacts on marine ecosystems. It monitors fish health in aquaculture, detects algal blooms, and identifies invasive species to advance marine energy projects and promote environmental sustainability. 
+#### Goal 14: Life Below Water
+One of the UN SDG’s is to conserve and sustainably use the oceans, seas, and marine resources for sustainable development. [Plainsight](https://www.forbes.com/sites/jeffkart/2023/01/28/plainsight-and-marinesitu-using-computer-vision-to-protect-sea-creatures/?sh=5c578fbf5115), in partnership with MarineSitu, utilizes computer vision to ensure the sustainable coexistence of marine energy devices and aquatic life. Their AI models monitor fish species and environmental health to find suitable places for tidal turbines or wave energy converters. This technology helps assess and mitigate potential negative impacts on marine ecosystems. It monitors fish health in aquaculture, detects algal blooms, and identifies invasive species to advance marine energy projects and promote environmental sustainability. 
 
-Goal 15: Life on Land 
-Leveraging computer vision and AI tools, Aerobotics specializes in precision agriculture, providing farmers with insights through drone and satellite technologies, as well as data analytics. The company's primary goal is to assist farmers in monitoring crop health, identifying potential difficulties, and optimizing farming operations.
+#### Goal 15: Life on Land 
+Leveraging computer vision and AI tools, [Aerobotics](https://www.aerobotics.com) specializes in precision agriculture, providing farmers with insights through drone and satellite technologies, as well as data analytics. The company's primary goal is to assist farmers in monitoring crop health, identifying potential difficulties, and optimizing farming operations.
 
-Goal 16: Peace, Justice, and Strong Institutions 
-As an effort to create strong institutions that emphasize peace and justice, there are a few ways that data and AI can be used to shed light on institutional racism. For example, the Incident Accuracy Reporting System utilizes natural language processing to collect key details from crime reports and analyzes testimonies to look for disparities. 
+#### Goal 16: Peace, Justice, and Strong Institutions 
+As an effort to create strong institutions that emphasize peace and justice, there are a few ways that data and AI can be used to [shed light on institutional racism](https://medium.com/ibm-data-ai/data-can-shed-light-on-institutional-racism-c39a21826e6d). For example, the Incident Accuracy Reporting System utilizes natural language processing to collect key details from crime reports and analyzes testimonies to look for disparities. 
 
-Goal 17: Partnerships for the Goals 
-To strengthen the means of implementation and to revitalize global partnership for sustainable development, the United Nations team in Serbia uses AI based on natural language processing to help the country efficiently perform RIA (regulatory impact analyses) on its national development plans, so it can better align with its SDG targets. 
+#### Goal 17: Partnerships for the Goals 
+To strengthen the means of implementation and to revitalize global partnership for sustainable development, the [United Nations](https://unsdg.un.org/latest/blog/natural-language-processing-align-national-plans-serbia-global-goals) team in Serbia uses AI based on natural language processing to help the country efficiently perform RIA (regulatory impact analyses) on its national development plans, so it can better align with its SDG targets. 
 
 More cases:
 https://docs.google.com/document/d/1x1UWxaCOVDHkioO9wpyfrtHOQpq22hTzd6ObyVwTUts/edit#
 
-Part 3. Your AI-Powered Solution for SDGs 
+## Part 3. Your AI-Powered Solution for SDGs 
 Your team will use one or more of the AI technologies discussed in Part 1 to address one of the diverse challenges aligned to SDGs*
+![picture](https://www.sdgactioncampaign.org/wp-content/uploads/2020/06/E-SDG-Poster-2019_without-UN-emblem_WEB.png) 
 
-Improve the ability to measure, analyze, or take decisive action on carbon emissions
-Improve access to affordable and reliable clean energy
-Improve supply chain transparency and traceability to bring fast and accurate visibility to sustainability issues where they arise
+* Improve the ability to measure, analyze, or take decisive action on carbon emissions
+* Improve access to affordable and reliable clean energy
+* Improve supply chain transparency and traceability to bring fast and accurate visibility to sustainability issues where they arise
 Address issues of water scarcity and quality
 Reduce volume of and demand for materials that create the biggest waste footprint (plastics, electronics, food, textile), and encourage reuse/recycle opportunities
 Build effective and efficient ways to quantifiably promote, preserve, and protect biodiversity
