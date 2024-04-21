@@ -140,78 +140,83 @@ Your team will use one or more of the AI technologies discussed in Part 1 to add
 * Improve the ability to measure, analyze, or take decisive action on carbon emissions
 * Improve access to affordable and reliable clean energy
 * Improve supply chain transparency and traceability to bring fast and accurate visibility to sustainability issues where they arise
-Address issues of water scarcity and quality
-Reduce volume of and demand for materials that create the biggest waste footprint (plastics, electronics, food, textile), and encourage reuse/recycle opportunities
-Build effective and efficient ways to quantifiably promote, preserve, and protect biodiversity
-Reduce global food insecurity through, as examples, improvements to distribution or sustainable farming practices
-Build equitable access to sustainability solutions, education, and job opportunities
-* The above theme was adapted from IBM Call for Code 2022.
+* Address issues of water scarcity and quality
+* Reduce volume of and demand for materials that create the biggest waste footprint (plastics, electronics, food, textile), and encourage reuse/recycle opportunities
+* Build effective and efficient ways to quantifiably promote, preserve, and protect biodiversity
+* Reduce global food insecurity through, as examples, improvements to distribution or sustainable farming practices
+* Build equitable access to sustainability solutions, education, and job opportunities
 
-Example student projects: https://www.aiforsocialgood.org/projects  
+*The above theme was adapted from IBM Call for Code 2022.
+
+**Example student projects: ** https://www.aiforsocialgood.org/projects  
 *Please note that you do NOT have to create a system in this project. In addition, most of the projects in this page use chatbot, but you have more AI technologies (in this document) you could propose to include in your project.
-Final presentation
+
+## Final Presentation
 Your team will have 5 minutes to present your projects in class. The order of presentation will be determined in class. 
-Evaluation Criteria
+
+## Evaluation Criteria
 Each presentation will be scored based on the following criteria with a minimum score of 0 and maximum score of 30 points*.
-What’s the idea? Did the team clearly describe their product/service idea? What is the UN SDG the product/service aims to address? What are the key benefits of their product/ service? How does it add value/ solve a problem?
-Why is the idea different? Did the student/ team explain how their product/ service idea is different from/ exhibits a clear advantage over other existing, or soon to be available, products/ services on the market? Did they give specific examples/ cite evidence to demonstrate their competitive advantage?
-Can the idea be implemented using IBM Watson or Microsoft Azure? Does the proposal effectively and innovatively leverage IBM Watson services to implement the solution? Is the solution technically feasible?
-Ethical consideration? Has the team presented important ethical concerns in proposing and designing AI systems?
+* **What’s the idea?** Did the team clearly describe their product/service idea? What is the UN SDG the product/service aims to address? What are the key benefits of their product/ service? How does it add value/ solve a problem?
+* **Why is the idea different?** Did the student/ team explain how their product/ service idea is different from/ exhibits a clear advantage over other existing, or soon to be available, products/ services on the market? Did they give specific examples/ cite evidence to demonstrate their competitive advantage?
+* **Can the idea be implemented using IBM Watson or Microsoft Azure?** Does the proposal effectively and innovatively leverage IBM Watson services to implement the solution? Is the solution technically feasible?
+* **Ethical consideration?** Has the team presented important ethical concerns in proposing and designing AI systems?
+
 The final individual score will be based on group evaluation.
-* The above theme was adapted from Silicon Valley Innovation Challenge 2023.
-Tips
-Brainstorm as many topics/problems as possible. Do not dwell on one topic at the very beginning. Feel free to practice the “yes-and” improv technique. Then you can narrow down at a later stage of the project.
-Instead of addressing the global issue, consider focusing the problem on a community scope, e.g., in the city, the state, etc.
+*The above theme was adapted from [Silicon Valley Innovation Challenge 2023](https://www.sjsu.edu/svic/get-involved/judging/index.php).
 
+## Tips
+* Brainstorm as many topics/problems as possible. Do not dwell on one topic at the very beginning. Feel free to practice the “yes-and” improv technique. Then you can narrow down at a later stage of the project.
+* Instead of addressing the global issue, consider focusing the problem on a community scope, e.g., in the city, the state, etc.
 
+## More Opportunities
+### Coding Competitions and Innovation Challenges
 
-More Opportunities
-Coding Competitions and Innovation Challenges
+* [IBM Call for Code Global Competition](https://developer.ibm.com/callforcode/global-challenge/#judgingCriteria). We have MIS alums who submitted to this competition almost every year and got recognized. It is a great opportunity to extend your ideas to whatever level you can and expand your professional community!
+* Many alums highlighted their proposal of AI for Social Good in their interviews and were inspired to shape their career path towards technology for great good.
+* [Silicon Valley Innovation Challenge 2023](https://www.sjsu.edu/svic/index.php), coming up in Fall 2023.
 
-IBM Call for Code Global Competition. We have MIS alums who submitted to this competition almost every year and got recognized. It is a great opportunity to extend your ideas to whatever level you can and expand your professional community!
-Many alums highlighted their proposal of AI for Social Good in their interviews and were inspired to shape their career path towards technology for great good.
-Silicon Valley Innovation Challenge 2023, coming up in Fall 2023.
-
-Potential Careers in AI 
+### Potential Careers in AI 
 
 While this project has given you a chance to explore AI, it is important to keep in mind that there exists a wide array of non-technical career paths within AI, spanning fields such as marketing, management, sales, and beyond. Regardless of your major/concentration, embracing AI offers diverse career paths beyond technical roles. 
 
 Here are two examples of some AI-related job postings to consider: 
 
-Prompt Engineer, Scale AI
-Sample Job Description:
-Develop LLM applications to evaluate data quality, solve difficult problems of synthetic data capabilities and execute business solutions
-“Jailbreak” and find vulnerabilities in LLMs and other generative AI models. Develop training materials for red teaming and adversarial analysis; conduct training with operation staff
-Develop data creation and vulnerability testing scripts  in Python/TypeScript; work with ML Engineers and software engineers for robust implementation and in-platform deployment
-Analyze and visualize experimental prompt results
-Develop and teach new prompt engineering methods to ML engineers and software engineering staff
+[**Prompt Engineer, Scale AI**](https://boards.greenhouse.io/scaleai/jobs/4359637005?gh_src=acad35425us&source=LinkedIn)
 
-Sample Requirements:
-B.S. or higher in a quantitative major or one related to language models (linguistics, philosophy, etc.)
-Proficiency writing Python or TypeScript for API-enabled scripts
-Ability to conduct analysis of model performance via statistics and data visualization
-Experience using frontier-scale LLMs (GPT, Claude, PaLM) programmatically towards specific applications or implementations
-Demonstrated ability to have built an LLM-based application or hacking an LLM to serve some novel purpose
-Familiarity with LLM evaluation metrics (BLUE, ROUGE, MAUVE, etc.) and statistics
-Strong written and verbal communication skills
+_Sample Job Description:_
+* Develop LLM applications to evaluate data quality, solve difficult problems of synthetic data capabilities and execute business solutions
+* “Jailbreak” and find vulnerabilities in LLMs and other generative AI models. Develop training materials for red teaming and adversarial analysis; conduct training with operation staff
+* Develop data creation and vulnerability testing scripts  in Python/TypeScript; work with ML Engineers and software engineers for robust implementation and in-platform deployment
+* Analyze and visualize experimental prompt results
+* Develop and teach new prompt engineering methods to ML engineers and software engineering staff
 
-AI Marketing Intern, Atlas Copco
-Sample Job Description:
-Help design user-friendly AI tools for the sales team.
-Develop and implement AI algorithms to analyze market trends and improve digital marketing efforts.
-Collaborate with the digital team to integrate AI solutions into existing systems.
-Conduct data analysis to identify sales trends and provide actionable insights.
-Create engaging content for multiple social media platforms, informed by AI-driven insights.
-Monitor digital marketing performance, utilizing AI to understand metrics and report findings with actionable recommendations.
+_Sample Requirements:_
+* B.S. or higher in a quantitative major or one related to language models (linguistics, philosophy, etc.)
+* Proficiency writing Python or TypeScript for API-enabled scripts
+* Ability to conduct analysis of model performance via statistics and data visualization
+* Experience using frontier-scale LLMs (GPT, Claude, PaLM) programmatically towards specific applications or implementations
+* Demonstrated ability to have built an LLM-based application or hacking an LLM to serve some novel purpose
+* Familiarity with LLM evaluation metrics (BLUE, ROUGE, MAUVE, etc.) and statistics
+* Strong written and verbal communication skills
 
-Sample Requirements:
-Currently enrolled in a bachelor's or master's degree program in Marketing, Communications, Computer Science, AI, or a related field with an academic record.
-Interest in AI and its applications in digital marketing.
-Experience with Excel (can maintain spreadsheets) and PowerPoint.
-Familiarity with social media platforms, email marketing tools, website analytics, and basic programming or AI modeling.
-Excellent teamwork capabilities.
+[**AI Marketing Intern, Atlas Copco**](https://www.linkedin.com/jobs/view/3815680397)
 
-Here is a reference sheet with even more potential job opportunities in AI if you are interested. 
+_Sample Job Description:_
+* Help design user-friendly AI tools for the sales team.
+* Develop and implement AI algorithms to analyze market trends and improve digital marketing efforts.
+* Collaborate with the digital team to integrate AI solutions into existing systems.
+* Conduct data analysis to identify sales trends and provide actionable insights.
+* Create engaging content for multiple social media platforms, informed by AI-driven insights.
+* Monitor digital marketing performance, utilizing AI to understand metrics and report findings with actionable recommendations.
+
+_Sample Requirements:_
+* Currently enrolled in a bachelor's or master's degree program in Marketing, Communications, Computer Science, AI, or a related field with an academic record.
+* Interest in AI and its applications in digital marketing.
+* Experience with Excel (can maintain spreadsheets) and PowerPoint.
+* Familiarity with social media platforms, email marketing tools, website analytics, and basic programming or AI modeling.
+* Excellent teamwork capabilities.
+
+Here is a [reference sheet](https://docs.google.com/document/d/1V5jwelLZnJR1wCbW6dyok-peMkkC87ViGradNYYka_M/edit) with even more potential job opportunities in AI if you are interested. 
 
 This project is sponsored by National Science Foundation #2142783, #2142439, #2142490, #2142503, #2142594.
 
